@@ -5,3 +5,5 @@
 
 ---
 Проект создан в рамках обучения в HTML Academy. Написан на Vanilla JS
+
+[Смотреть сертификат](/certificate_js1.pdf)
